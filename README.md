@@ -1,1 +1,1 @@
-mkdir images
+$mkdir images
